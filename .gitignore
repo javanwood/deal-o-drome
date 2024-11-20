@@ -1,0 +1,5 @@
+.direnv/
+.elm/
+elm-stuff/
+bin/nix-links/
+build/
